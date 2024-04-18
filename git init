@@ -26,5 +26,4 @@ core.filemode=false
 core.bare=false
 core.logallrefupdates=true
 core.ignorecase=true
-remote.origin.url=https://github.com/Paseutsinh/Lab1_Sihanouvong.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
